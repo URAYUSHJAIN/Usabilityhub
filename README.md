@@ -33,7 +33,7 @@ This project was developed as part of a college assignment to practice web devel
 ## 💻 How to Run Locally
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/UsabilityHub-Clone.git
+   git clone https://github.com/URAYUSHJAIN/UsabilityHub-Clone.git
    ```
 2. **Open in a browser**:
    Open the `index.html` file in your preferred web browser.
